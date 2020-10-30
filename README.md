@@ -1,6 +1,7 @@
 ## Project structure
 
   |- pages
+  
   |- public
   |- src
     |- assets
