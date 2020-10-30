@@ -3,13 +3,21 @@
   |- pages
   
   |- public
+  
   |- src
+  
     |- assets
+    
     |- components
+    
       |- BadgeNotification.jsx   <--- Problem is in this component
+      
     |- firebase
+    
     |- states
+    
   |- styles
+  
     |- theme.js
 
 ### Problematic component
